@@ -56,6 +56,11 @@ html {
     letter-spacing: .6rem;
     background-color: rgba(85, 85, 85, 0.534);
 }
+.tomasz__container--info a:hover {
+    color: white;
+    background: rgba(85, 85, 85, 0.534);
+    box-shadow: 0 0 10px rgba(85, 85, 85, 0.534),0 0 40px rgba(85, 85, 85, 0.534), 0 0 80px;
+}
 
 .about__container {
     width: 100%;
@@ -118,6 +123,12 @@ html {
     text-decoration: none;
     letter-spacing: .6rem;
     background-color: rgba(85, 85, 85, 0.534);
+}
+
+.container__header:hover {
+    color: white;
+    background: rgba(85, 85, 85, 0.534);
+    box-shadow: 0 0 10px rgba(85, 85, 85, 0.534),0 0 40px rgba(85, 85, 85, 0.534), 0 0 80px;
 }
 
 .container__ul {
