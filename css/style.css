@@ -51,15 +51,16 @@ html {
     display: inline-block;
     font-size: 1.6rem;
     text-transform: uppercase;
-    color: white;
+    color: #03e9f4;
     text-decoration: none;
     letter-spacing: .6rem;
-    background-color: rgba(85, 85, 85, 0.534);
+    background-color: black;
+    transition: 0.5s;
 }
 .tomasz__container--info a:hover {
-    color: white;
-    background: rgba(85, 85, 85, 0.534);
-    box-shadow: 0 0 10px rgba(85, 85, 85, 0.534),0 0 20px rgba(85, 85, 85, 0.534), 0 0 40px;
+    color: black;
+    background:  #03e9f4;
+    box-shadow: 0 0 5px  #03e9f4, 0 0 10px  #03e9f4, 0 0 15px  #03e9f4, 0 0 20px  #03e9f4;
 }
 
 .about__container {
@@ -119,16 +120,17 @@ html {
     display: inline-block;
     font-size: 1.6rem;
     text-transform: uppercase;
-    color: white;
+    color: #03e9f4;
     text-decoration: none;
     letter-spacing: .6rem;
-    background-color: rgba(85, 85, 85, 0.534);
+    background-color: black;
+    transition: 0.5s;
 }
 
 .container__header:hover {
-    color: white;
-    background: rgba(85, 85, 85, 0.534);
-    box-shadow: 0 0 10px rgba(85, 85, 85, 0.534),0 0 20px rgba(85, 85, 85, 0.534), 0 0 40px;
+    color: black;
+    background:  #03e9f4;
+    box-shadow: 0 0 5px  #03e9f4, 0 0 10px  #03e9f4, 0 0 15px  #03e9f4, 0 0 20px  #03e9f4;
 }
 
 .container__ul {
