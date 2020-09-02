@@ -130,7 +130,7 @@ html {
 .container__header:hover {
     color: black;
     background:  #03e9f4;
-    box-shadow: 0 0 5px  #03e9f4, 0 0 10px  #03e9f4, 0 0 15px  #03e9f4, 0 0 20px  #03e9f4;
+    box-shadow: 0 0 10px  #03e9f4, 0 0 10px  #03e9f4, 0 0 15px  #03e9f4, 0 0 20px  #03e9f4;
 }
 
 .container__ul {
