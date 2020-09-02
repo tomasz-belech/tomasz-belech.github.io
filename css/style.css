@@ -59,7 +59,7 @@ html {
 .tomasz__container--info a:hover {
     color: white;
     background: rgba(85, 85, 85, 0.534);
-    box-shadow: 0 0 10px rgba(85, 85, 85, 0.534),0 0 40px rgba(85, 85, 85, 0.534), 0 0 80px;
+    box-shadow: 0 0 10px rgba(85, 85, 85, 0.534),0 0 20px rgba(85, 85, 85, 0.534), 0 0 40px;
 }
 
 .about__container {
@@ -128,7 +128,7 @@ html {
 .container__header:hover {
     color: white;
     background: rgba(85, 85, 85, 0.534);
-    box-shadow: 0 0 10px rgba(85, 85, 85, 0.534),0 0 40px rgba(85, 85, 85, 0.534), 0 0 80px;
+    box-shadow: 0 0 10px rgba(85, 85, 85, 0.534),0 0 20px rgba(85, 85, 85, 0.534), 0 0 40px;
 }
 
 .container__ul {
