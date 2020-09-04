@@ -113,7 +113,7 @@ html {
     flex-direction: column;
 }
 
-.container__header {
+.skills__header {
     font-size: 3rem;
     color: white;
     padding: 2rem 5rem;
@@ -127,19 +127,19 @@ html {
     transition: 0.5s;
 }
 
-.container__header:hover {
+.skills__header:hover {
     color: black;
     background:  #03e9f4;
     box-shadow: 0 0 10px  #03e9f4, 0 0 10px  #03e9f4, 0 0 15px  #03e9f4, 0 0 20px  #03e9f4;
 }
 
-.container__ul {
+.skills__ul {
     width: 100%;
     max-width: 1200px;
     justify-content: center;
 }
 
-li {
+.skills__ul li {
     max-width: 1200px;
     position: relative;
     list-style: none;
@@ -149,7 +149,7 @@ li {
     color: white;
 }
 
-li::before {
+.skills__ul li::before {
     content: "";
     position: absolute;
     top: calc(100% + 10px);
@@ -160,7 +160,7 @@ li::before {
     border-radius: 1000px;
 }
 
-li::after {
+.skills__ul li::after {
     content: "";
     position: absolute;
     top: calc(100% + 10px);
@@ -174,7 +174,7 @@ li::after {
     animation-fill-mode: forwards;
 }
 
-li.html::after {
+.skills__ul li.html::after {
     animation-name: html;
 }
 
@@ -184,7 +184,7 @@ li.html::after {
     }
 }
 
-li.js::after {
+.skills__ul li.js::after {
     animation-name: js;
 }
 
@@ -194,7 +194,7 @@ li.js::after {
     }
 }
 
-li.css::after {
+.skills__ul li.css::after {
     animation-name: css;
 }
 
@@ -204,7 +204,7 @@ li.css::after {
     }
 }
 
-li.jquery::after {
+.skills__ul li.jquery::after {
     animation-name: jquery;
 }
 
@@ -259,4 +259,6 @@ li.jquery::after {
     margin: .4rem;
     display: inline-block
 }
+
+
 
