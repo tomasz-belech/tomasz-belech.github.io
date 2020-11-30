@@ -7,7 +7,7 @@
   --font-medium: 500;
 }
 
-/*===== Colores =====*/
+/*===== Colors =====*/
 :root {
   --first-color: rgb(9, 172, 158);
   --white-color: #fafaff;
@@ -15,7 +15,7 @@
   --text-color: #697477;
 }
 
-/*===== Fuente y tipografia =====*/
+/*===== Font-sizing =====*/
 :root {
   --body-font: "Montserrat", sans-serif;
   --big-font-size: 6.25rem;
@@ -32,7 +32,7 @@
   }
 }
 
-/*===== Margenes =====*/
+/*===== Margins=====*/
 :root {
   --mb-1: 0.5rem;
   --mb-2: 1rem;
