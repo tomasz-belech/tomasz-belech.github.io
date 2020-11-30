@@ -315,6 +315,9 @@ img {
 .portfolio__link-name {
   color: var(--dark-color);
 }
+.portfolio__link-name:hover {
+  color: var(--white-color);
+}
 
 /* ===== CONTACT =====*/
 .contact__container {
