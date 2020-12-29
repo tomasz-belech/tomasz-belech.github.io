@@ -214,6 +214,14 @@ img {
   bottom: 0;
   width: 295px;
 }
+@media screen and (max-width: 768px) {
+  .home__img {
+    display: none;
+    right: 0;
+    bottom: 0;
+    width: 295px;
+  }
+}
 
 /* ===== ABOUT =====*/
 .about__container {
